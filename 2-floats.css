@@ -1,0 +1,28 @@
+header {
+    margin: 0 auto;
+    width: 100%;
+    float: left;
+}
+
+aside{
+    float: right;
+    clear: right;
+    width: 25%;
+    height: 100%;
+    padding-bottom: 35%;
+}
+
+main{
+    float: left;
+    top: 50%;
+    width: 70%;
+}
+
+footer{
+    clear: both;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {text-align: center;}
